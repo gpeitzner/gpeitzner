@@ -56,7 +56,7 @@
 <br />
 <br />
 
-### ⚡GitHub Stats
+### ⚡GitHub Stats:
 
 <img align="left" alt="gpeitzner's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gpeitzner&show_icons=true&hide_border=true" />
 
