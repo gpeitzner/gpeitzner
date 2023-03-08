@@ -2,9 +2,9 @@
 
 ## I'm a Developer!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to watch movies and play videogames
+- ⚡ Fun fact: I love to watch movies, read books and play video games
 
 ### Languages and Tools:
 
