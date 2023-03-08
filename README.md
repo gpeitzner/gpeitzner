@@ -1,9 +1,9 @@
 ### Hi there, I'm Guillermo - aka [gpeitzner][website] 👋
 
-## I'm a Developer!!
+## I'm a Developer!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to watch movies and play videogames
 
 ### Languages and Tools:
