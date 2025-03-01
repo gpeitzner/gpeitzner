@@ -3,7 +3,7 @@
 ## I'm a Developer!
 
 - 🌱 I’m currently learning everything
-- 🥅 2024 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to watch movies, read books and play video games
 
 ### Languages and Tools:
